@@ -166,18 +166,6 @@ You can easily customize:
 
 ---
 
-# ❤️ Support The Project
-
-If you like this project and want to support development:
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me A Coffee">
-  </a>
-</p>
-
----
-
 # 🌟 Roadmap
 
 - [ ] Authentication Pages
