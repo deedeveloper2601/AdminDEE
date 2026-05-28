@@ -65,7 +65,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](./preview.png)
+![Dashboard](.assets/preview.png)
 
 ---
 
