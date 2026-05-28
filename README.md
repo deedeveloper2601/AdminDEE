@@ -1,6 +1,6 @@
 # 🚀 AdminDEE — Laravel + Inertia + Vue Admin Dashboard
 
-![AdminDEE Banner](./preview.png)
+![AdminDEE Banner](./assets/preview.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-12-red?style=for-the-badge&logo=laravel" />
@@ -65,7 +65,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](.assets/preview.png)
+![Dashboard](./assets/preview2.png)
 
 ---
 
